@@ -98,6 +98,7 @@
     "chokidar": "^1.7.0",
     "npm-run-all": "^4.1.2",
     "prop-types": "^15.6.0",
-    "react-docgen": "^2.20.0"
+    "react-docgen": "^2.20.0",
+    "webpack-hot-middleware": "^2.20.0"
   }
 }
